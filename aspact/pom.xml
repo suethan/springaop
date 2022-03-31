@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <spring.vserion>5.0.8.RELEASE</spring.vserion>
+        <spring.vserion>5.3.18</spring.vserion>
     </properties>
 
     <dependencies>
